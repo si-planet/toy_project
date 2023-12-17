@@ -1,0 +1,26 @@
+body
+{
+    padding: 10%;
+}
+
+div
+{
+    margin : 1%;
+}
+
+.col-md-auto
+{
+    margin: auto;
+}
+
+button
+{
+    background-color: transparent;
+    border : none;
+}
+
+a
+{
+    text-decoration: none;
+    color : gray;
+}
